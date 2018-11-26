@@ -19,3 +19,7 @@ To complete this assignment, you must complete the following steps:
 
 This sounds like a lot, but these are small steps. You are encouraged to watch the video demo linked on the assignment resources page for more information about how to complete each of these steps.  
 
+////
+
+Update: testing README
+
